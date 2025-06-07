@@ -7,6 +7,7 @@ This repository contains our group project for a class assignment where we explo
 - Placide Imanzi Kabisa
 - Prince Rurangwa
 - Uwituze Benitha
+- Niyongabo Jean Pierre
 
 ## 🎯 Objective
 
